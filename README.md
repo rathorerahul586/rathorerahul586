@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **iOS and Flutter**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
