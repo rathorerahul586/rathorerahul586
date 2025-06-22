@@ -40,7 +40,7 @@ I build smooth UIs, obsess over clean architecture, and enjoy breathing life int
 
 ### 🔗 Let’s Connect
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/rahulrathore586)
+* 💼 [LinkedIn](https://www.linkedin.com/in/rahul-kumar-mob-dev/)
 * 💻 [GitHub](https://github.com/rathorerahul586)
 * 🧠 [Medium](https://rathorerahul586.medium.com)
 
