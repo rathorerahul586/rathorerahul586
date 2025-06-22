@@ -1,6 +1,6 @@
 # 👋 Hey there, I’m Rahul Rathore
 
-**Mobile App Developer | Flutter • Android • Jetpack Compose**
+**Mobile App Developer | Jetpack Compose • Android • Flutter**
 
 I'm a passionate developer who loves crafting smooth, scalable, and performant mobile apps. With experience in both **Flutter** and **Native Android**, I build apps that not only work — but *feel great to use*.
 
